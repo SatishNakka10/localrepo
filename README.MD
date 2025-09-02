@@ -1,1 +1,1 @@
-#This is a new loco repo
+#This is a new locol repo
